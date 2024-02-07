@@ -5,4 +5,4 @@
 :small_orange_diamond: :computer: Interested in Cyber Security/Ethical Hacking
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheReaperGR&theme=date_night)](https://github.com/TheReaperGR/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheReaperGR&layout=compact&theme=date_night)
